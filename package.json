@@ -1,0 +1,18 @@
+{
+  "name": "json-min-max",
+  "version": "1.0.0",
+  "description": "json minify and beautify for nodejs or browser",
+  "main": "./index.js",
+  "keywords": [
+    "json",
+    "minify",
+    "beautify"
+  ],
+  "author": "ben eaves",
+  "license": "MIT",
+  "homepage": "https://github.com/angeal185/json-min-max",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angeal185/json-min-max.git"
+  }
+}
