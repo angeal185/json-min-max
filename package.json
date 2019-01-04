@@ -6,7 +6,9 @@
   "keywords": [
     "json",
     "minify",
-    "beautify"
+    "minification"
+    "beautify",
+    "pretty-print"
   ],
   "author": "ben eaves",
   "license": "MIT",
