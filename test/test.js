@@ -1,4 +1,4 @@
-const JMM = require('../')
+const JMM = require('../');
 
 let x = {
   data:"result"
